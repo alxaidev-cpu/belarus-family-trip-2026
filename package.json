@@ -1,0 +1,1 @@
+{"name":"belarus-family-trip-2026","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test tests/*.test.mjs","dev":"python3 -m http.server 4173 --directory dist"},"engines":{"node":">=22"}}
